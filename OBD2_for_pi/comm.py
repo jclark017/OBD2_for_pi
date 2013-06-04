@@ -1,7 +1,7 @@
 '''
 Created on Mar 31, 2013
 
-@author: Jeff Clark
+@author: Jeff Clarke
 @
 Credit to: Donour Sizemore (donour@uchicago.edu)
 '''
